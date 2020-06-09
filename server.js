@@ -1,3 +1,3 @@
 let name='Etam'
 
-console.log('Hey ${name}, I am Node')
+console.log(`Hey ${name}, I am Node`)
